@@ -6,7 +6,7 @@
 
 - **Name:** JC Ree F. Redelosa
 - **Section:** B186
-- **Date:** November 21, 2026
+- **Date:** November 7, 2026
 - **Programming Language:** Python 3.x
 - **Development Environment:** Visual Studio Code
 - **Repository:** Threads-and-Multithreading-Lab
